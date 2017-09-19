@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="txt_1">Tiempo de sueño(segundos)</string>
+    <string name="txt_2">Ejecutar</string>
+</resources>
